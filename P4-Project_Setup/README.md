@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+<p>This is my repository for my ChimTech project. Click<a href="https://github.com/alexbrenneman/chimtech"> here </a> to view the repo!</p>
